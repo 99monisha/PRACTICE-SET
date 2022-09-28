@@ -1,4 +1,10 @@
-// Online C++ compiler to run C++ program online
+/*
+Insert Element at the end of the array without using any function..
+6
+1 2 3 4 5 6
+7
+1 2 3 4 5 6 7
+*/
 #include <iostream>
 using namespace std;
 
