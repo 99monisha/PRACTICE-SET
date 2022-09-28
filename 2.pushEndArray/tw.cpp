@@ -1,3 +1,10 @@
+/*
+Insert the element at the end of the array when the array is full..
+4
+6 7 8 9
+6 7 8 9 65 
+*/
+
 #include<iostream>
 using namespace std;
 int add_end(int a[],int b[],int n,int freepos,int data)
