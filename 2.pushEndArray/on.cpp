@@ -1,3 +1,11 @@
+/*
+
+
+6
+7 8 9 5 6 7
+7 8 9 5 6 7 65 
+*/
+
 #include<iostream>
 using namespace std;
 int add_end(int a[],int freepos,int data)
