@@ -1,5 +1,5 @@
 /*
-
+insert Element at the end of the array when array is not full
 
 6
 7 8 9 5 6 7
