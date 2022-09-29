@@ -12,7 +12,7 @@ int add_front(int a[],int n,int data)
 }
 int main()
 {
-    int n,i,freepos,data=8;
+    int n,i,data=8;
     cout<<"Enter the number of element: "<<" "<<endl;
     cin>>n;
     int a[n];
