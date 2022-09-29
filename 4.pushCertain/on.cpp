@@ -1,7 +1,11 @@
 /*
 Insert element at the certain position 
 
-
+Enter the position:
+3
+Enetr the element you want: 
+6
+4 9 87 6 8 6 
 
 */ 
 #include <iostream>
@@ -22,7 +26,7 @@ int main() {
         a[pos]=element;
         for(i=0;i<element;i++)
         
-            cout<<a[i];
+            cout<<a[i]<<" ";
         }
         else
         cout<<"Invalid position";
