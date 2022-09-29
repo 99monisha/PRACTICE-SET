@@ -1,5 +1,10 @@
 /*
+Insert element at the begining of the array when arry is not full
 
+Enter the number of element:  
+5
+1 2 3 4 5
+8 1 2 3 4 5 
 
 */
 
