@@ -1,4 +1,5 @@
 /*
+Insert element at the begining of the array when arry is not full
 
 Enter the number of element:  
 5
