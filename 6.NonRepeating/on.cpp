@@ -1,6 +1,12 @@
 /*
 Non repeating Numbers in array
-
+Enter the Number of element:
+6
+Enter the elements: 
+10 10 2 3 4 10
+The non repeating numbers are: 2 
+The non repeating numbers are: 3 
+The non repeating numbers are: 4 
 
 */
 
