@@ -1,5 +1,12 @@
 /*
-
+Eneter the number of array size: 
+4
+Eneter the array element: 
+1 2 3 5
+Enter the Position and Number:
+3 4
+The Final Array is:  
+1 2 3 4 5 
 
 */
 
