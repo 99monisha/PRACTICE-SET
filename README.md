@@ -5,5 +5,12 @@
    <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/2.pushEndArray/tw.cpp">4. Insert Element at the end of the array when array is full<a/></p>
     <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/3.pushFrontArray/on.cpp">5. Insert Element at the front of the array when array is not full<a/></p>
    <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/3.pushFrontArray/tw.cpp">6. Insert Element at the front of the array when array is full<a/></p>   
-   <p><a href=""><a/></p>
+   <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/4.pushCertain/on.cpp">7. Insert element certain position of the array<a/></p>
+    <p><a href=""><a/></p>
+     <p><a href=""><a/></p>
+      <p><a href=""><a/></p>
+       <p><a href=""><a/></p>
+        <p><a href=""><a/></p>
+         <p><a href=""><a/></p>
+
  
