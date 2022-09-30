@@ -1,4 +1,5 @@
 /*
+Delete element in a certain position from an array
 5
 10 20 30 40 50
 Enetr pos:
