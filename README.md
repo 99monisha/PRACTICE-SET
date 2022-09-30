@@ -6,7 +6,7 @@
     <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/3.pushFrontArray/on.cpp">5. Insert Element at the front of the array when array is not full<a/></p>
    <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/3.pushFrontArray/tw.cpp">6. Insert Element at the front of the array when array is full<a/></p>   
    <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/4.pushCertain/on.cpp">7. Insert element certain position of the array<a/></p>
-    <p><a href=""><a/></p>
+       <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/4.pushCertain/tw.cpp">8. Insert element certain position of the array method-2<a/></p>
      <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/5.DeleteCertain/on.cpp">9. Delete Element in a certain position from an array<a/></p>
       <p><a href=""><a/></p>
        <p><a href=""><a/></p>
