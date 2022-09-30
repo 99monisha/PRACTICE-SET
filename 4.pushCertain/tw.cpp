@@ -1,4 +1,6 @@
 /*
+Insert Element in the certain position
+
 Eneter the number of array size: 
 4
 Eneter the array element: 
