@@ -10,7 +10,7 @@
      <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/5.DeleteCertain/on.cpp">9. Delete Element in a certain position from an array<a/></p>
       <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/6.NonRepeating/on.cpp">10. Non repeating Numbers in array<a/></p>
        <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/7.pairSum/on.cpp">11. Pair of Sum<a/></p>
-        <p><a href=""><a/></p>
+        <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/8.primeGivenrange/on.cpp">12. Prime number in given range<a/></p>
          <p><a href=""><a/></p>
             <p><a href=""><a/></p>
         <p><a href=""><a/></p>
