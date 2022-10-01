@@ -1,4 +1,5 @@
 /*
+Prime number in given range
 
 Enter starting and Ending Number: 
 2 50
