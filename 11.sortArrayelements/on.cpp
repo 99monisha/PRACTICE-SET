@@ -1,5 +1,5 @@
 /*
-
+Sort the elements of an array..
 6
 90 45 89 45 76 34
 34 45 45 76 89 90
