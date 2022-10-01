@@ -1,5 +1,7 @@
 /*
-
+6
+2 2 2 2 2 -5
+The maxium sum is: 10
 */
 
 #include<iostream>
