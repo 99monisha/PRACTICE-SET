@@ -1,4 +1,5 @@
 /*
+Calculate maximum sum of an array using kadanes Algorithms
 6
 2 2 2 2 2 -5
 The maxium sum is: 10
