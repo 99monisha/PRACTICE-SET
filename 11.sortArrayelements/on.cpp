@@ -1,3 +1,10 @@
+/*
+
+6
+90 45 89 45 76 34
+34 45 45 76 89 90
+*/
+
 #include<iostream>
 using namespace std;
 void sorting(int a[],int n)
