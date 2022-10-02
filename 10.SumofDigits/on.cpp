@@ -1,7 +1,11 @@
 /*
  calculate the Sum of Digits
-Enter the digits:789
-Sum of digit is:24
+
+
+Enter the digits:
+789
+Sum of digit is:
+24
 */
 
 #include<iostream>
