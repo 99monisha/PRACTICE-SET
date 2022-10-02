@@ -1,4 +1,7 @@
-/**/
+/*
+Sum of digits that digits untill a single digits
+
+*/
 
 #include<iostream>
 using namespace std;
