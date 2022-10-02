@@ -23,6 +23,8 @@ int sumDigit(int n)
     }
     return sum;
 }
+
+
 int main()
 {
     int n;
