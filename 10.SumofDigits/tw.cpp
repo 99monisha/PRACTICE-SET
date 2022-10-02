@@ -26,7 +26,7 @@ int sumDigit(int n)
 int main()
 {
     int n;
-    cout<<" Eneter the digits: ";
+    cout<<" Eneter the digits: "<<endl;
     cin>>n;
     cout<<sumDigit(n);
     return 0;
