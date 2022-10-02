@@ -14,7 +14,7 @@
          <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/9.KadensAlgo/maximumsum.cpp">13. Kadens Algorithms<a/></p>
             <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/10.SumofDigits/on.cpp">14. Sum of Digits<a/></p>
         <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/10.SumofDigits/tw.cpp">15. Sum of Digits until its a Single Digits<a/></p>
-         <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/12.AssendingDeseding/on.cpp">16. <a/></p>
+         <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/12.AssendingDeseding/on.cpp">16. Sort First half in Ascending and Second half in descending order <a/></p>
             <p><a href=""><a/></p>
         <p><a href=""><a/></p>
          <p><a href=""><a/></p>
