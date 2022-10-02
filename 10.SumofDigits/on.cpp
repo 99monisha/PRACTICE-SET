@@ -22,6 +22,6 @@ int main()
         n=n/10;
         
     }
-    cout<<"Sum of digit is:"<<sum;
+    cout<<"Sum of digit is:"<<sum<<endl;
     return 0;
 }
