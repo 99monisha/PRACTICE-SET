@@ -1,5 +1,7 @@
 /*
 Sum of digits that digits untill a single digits
+555
+6
 
 */
 
