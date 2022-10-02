@@ -12,6 +12,7 @@ Sum of digit is:
 using namespace std;
 int main()
 {
+    
     int n,sum=0,rem=0;
     cout<<" Enter the digits:"<<endl;
     cin>>n;
