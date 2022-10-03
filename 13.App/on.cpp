@@ -37,7 +37,7 @@ void replaceSubstring(char st[],char sub[],char new_str[])
             }
             for(j=start;j<start+newLen;j++)        
              {                
-               for(k=stLen;k>=j;k--)
+                for(k=stLen;k>=j;k--)
                 st[k+1]=st[k];
                 st[j]=new_str[j-start];
                 stLen++;
