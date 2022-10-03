@@ -45,7 +45,7 @@ void replaceSubstring(char st[],char sub[],char new_str[])
     }
 }
 int main() 
-{
+{   
     char st[100] = "prepinsta",sub[100] = "insta",new_str[100]="ster ";
     replaceSubstring(st,sub,new_str);
     cout<<"The string after replacing substring: "<<st<<endl;
