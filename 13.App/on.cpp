@@ -1,4 +1,7 @@
-/**/
+/*
+The string after replacing substring: prepster
+
+*/
 
 #include<iostream> 
 #include<string.h> 
