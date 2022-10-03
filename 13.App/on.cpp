@@ -25,7 +25,7 @@ void replaceSubstring(char st[],char sub[],char new_str[])
         flag=1;
         end=i;
         if(flag==0)
-            i-=j;
+        i-=j;
         else
         {
             for(j=start;j<end;j++)
