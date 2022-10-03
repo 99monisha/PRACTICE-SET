@@ -31,14 +31,14 @@ void replaceSubstring(char st[],char sub[],char new_str[])
             for(j=start;j<end;j++)
             {
                 for(k=start;k<stLen;k++)
-                    st[k]=st[k+1];
+                st[k]=st[k+1];
                 stLen--;
                 i--;
             }
             for(j=start;j<start+newLen;j++)        
              {                
                for(k=stLen;k>=j;k--)
-                    st[k+1]=st[k];
+                st[k+1]=st[k];
                 st[j]=new_str[j-start];
                 stLen++;
                 i++;
