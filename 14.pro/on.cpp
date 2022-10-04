@@ -1,6 +1,5 @@
 /*
 Output 
-
 Minimum difference is 2
 */
 
