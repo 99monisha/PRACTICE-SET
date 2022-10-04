@@ -1,3 +1,9 @@
+/*
+Output 
+
+Minimum difference is 2
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
