@@ -21,5 +21,6 @@ int main()
        if (diff < mini)
           mini = diff;
     }
-    cout << "Minimum difference is "<< mini;
+    cout << "Minimum difference is "<< mini<<endl;
+    return 0;
 }
