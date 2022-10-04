@@ -5,7 +5,6 @@ Minimum difference is 2
 
 #include<bits/stdc++.h>
 using namespace std;
-
 int main()
 {
     int a[] = {7, 3, 2, 4, 9, 12, 56} ;
