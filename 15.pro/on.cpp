@@ -2,9 +2,7 @@
 Move all the negative elements to one side of the array
 
 5
-
 8 9 10 -2 7 
-
 -2 8 9 10 7
 
 */
