@@ -4,7 +4,6 @@
 
 
 using namespace std;
-
 int convert(string num)
 {
     int len = num.size();
