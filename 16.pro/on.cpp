@@ -23,7 +23,6 @@ int convert(string num)
     } 
     return dec; 
 } 
-
 int main() 
 { 
     string num; 
