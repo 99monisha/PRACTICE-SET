@@ -28,9 +28,7 @@ void printRec(string number, int extraOnes, int remainingPlaces)
 int main()
 {
    int n = 4;
-
    string str = ""; 
    printRec(str, 0, n);
-
    return 0;
 }
