@@ -12,7 +12,7 @@ void printRec(string number, int extraOnes, int remainingPlaces)
 
 {
 
-   if (remainingPlaces==0) 
+    if (remainingPlaces==0) 
 
    {
      cout << number << " "; 
