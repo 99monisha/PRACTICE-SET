@@ -13,7 +13,8 @@ void printRec(string number, int extraOnes,int remainingPlaces)
 
    if (remainingPlaces==0) 
    {
-     cout << number << " "; return; 
+     cout << number << " "; 
+     return; 
    } 
    printRec(number + "1", extraOnes + 1, remainingPlaces - 1);
 
