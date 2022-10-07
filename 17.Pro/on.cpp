@@ -18,6 +18,7 @@ void printRec(string number, int extraOnes,int remainingPlaces)
    if (extraOnes > 0) 
    printRec(number + "0", extraOnes - 1,remainingPlaces - 1);
 }
+
 int main()
 {
    int n = 4;
