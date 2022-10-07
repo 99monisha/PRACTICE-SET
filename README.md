@@ -17,7 +17,7 @@
          <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/12.AssendingDeseding/on.cpp">16. Sort First half in Ascending and Second half in descending order <a/></p>
             <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/13.App/on.cpp">17. Replace a Substring in a String <a/></p>
         <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/16.pro/on.cpp">18.  Convert Hexadecimal to Decimal<a/></p>
-       <p><a href="">19. Print N-bit binary numbers having more 1’s than 0’s in all prefixes<a/></p>
+       <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/17.Pro/on.cpp">19. Print N-bit binary numbers having more 1’s than 0’s in all prefixes<a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
