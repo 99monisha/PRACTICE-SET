@@ -8,11 +8,11 @@ Print N-bit binary numbers having more 1’s than 0’s in all prefixes
 #include <bits/stdc++.h>
 using namespace std;
 
-void printRec(string number, int extraOnes,int remainingPlaces)
+void printRec(string number, int extraOnes, int remainingPlaces)
 {
 
    if (remainingPlaces==0) 
-   
+
    {
      cout << number << " "; 
      return; 
