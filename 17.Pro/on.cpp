@@ -1,6 +1,6 @@
 /*
 
-
+Print N-bit binary numbers having more 1’s than 0’s in all prefixes
 
 1111 1110 1101 1100 1011 1010
 */
