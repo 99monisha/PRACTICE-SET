@@ -9,6 +9,7 @@ Print N-bit binary numbers having more 1’s than 0’s in all prefixes
 using namespace std;
 
 void printRec(string number, int extraOnes, int remainingPlaces)
+
 {
 
    if (remainingPlaces==0) 
