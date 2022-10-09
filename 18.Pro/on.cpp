@@ -22,9 +22,8 @@ void armstrong(int low, int high){
             digit = temp % 10;
             sum = sum + pow(digit,len);;
             temp /= 10;
-        };
-    
-        if(sum == num)
+        }
+    if(sum == num)
             cout << num << " ";
     }
 }
