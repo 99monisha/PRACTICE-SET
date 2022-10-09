@@ -11,7 +11,6 @@ int order(int x)
     }
     return len;
 }
-
 void armstrong(int low, int high){
      for(int num = low; num <= high; num++){
         
