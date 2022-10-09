@@ -13,8 +13,7 @@ int order(int x)
 }
 
 void armstrong(int low, int high){
-    
-    for(int num = low; num <= high; num++){
+     for(int num = low; num <= high; num++){
         
         int sum = 0, temp, digit, len;
         temp = num;
