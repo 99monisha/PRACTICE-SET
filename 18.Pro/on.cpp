@@ -31,6 +31,5 @@ int main ()
 {
     int low = 100, high = 400;
     armstrong(low, high);
-
     return 0;
 }
