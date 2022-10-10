@@ -1,5 +1,6 @@
 /*
-
+Enter a number : 10
+55
 */
 
 #include<bits/stdc++.h> 
