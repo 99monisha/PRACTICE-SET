@@ -1,6 +1,6 @@
 /*
 
-
+ Sum of N Natural Numbers
 Enter a number : 10
 55
 */
