@@ -1,4 +1,6 @@
 /*
+
+
 Enter a number : 10
 55
 */
