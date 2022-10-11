@@ -1,6 +1,7 @@
 /*
 
-
+The string after removing all the brackets is:
+Prepinsta
 */
 
 
