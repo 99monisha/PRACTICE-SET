@@ -1,5 +1,5 @@
 /*
-
+remove brackets from an algebraic expression
 The string after removing all the brackets is:
 Prepinsta
 */
