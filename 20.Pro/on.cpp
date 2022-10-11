@@ -4,7 +4,6 @@
 
 #include <iostream>
 using namespace std;
-
 int main()
 {
 char str[100]="Prepins))ta", str_without_brackets[100];
