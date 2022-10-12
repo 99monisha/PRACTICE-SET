@@ -20,7 +20,7 @@
        <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/17.Pro/on.cpp">19. Print N-bit binary numbers having more 1’s than 0’s in all prefixes<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/18.Pro/on.cpp">20. Armstrong Numbers in a given Interval<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/19.Pro/on.cpp">21. Sum of N Natural Numbers<a/></p>
-<p><a href=""><a/></p>
+<p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">22. Remove brackets from an algebraic expression<a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
