@@ -1,6 +1,6 @@
 /*
 
-
+30 & 140 are friendly pairs
 */
 
 #include <iostream>
