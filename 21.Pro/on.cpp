@@ -1,4 +1,5 @@
 /*
+Friendly Pair
 
 30 & 140 are friendly pairs
 */
