@@ -22,8 +22,8 @@
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/19.Pro/on.cpp">21. Sum of N Natural Numbers<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">22. Remove brackets from an algebraic expression<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">23. Friendly Pair<a/></p>
-<p><a href="">24. Friendly Pair<a/></p>
-<p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/tw.cpp"><a/></p>
+<p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">24. Friendly Pair<a/></p>
+<p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
