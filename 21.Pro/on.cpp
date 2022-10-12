@@ -23,6 +23,5 @@ int main ()
         cout << num1 << " & " << num2 << " are friendly pairs";
     else
         cout << num1 << " & " << num2 << " are not friendly pairs";
-
-    
+        return 0;
 }
