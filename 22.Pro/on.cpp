@@ -2,11 +2,10 @@
 #include <math.h>
 using namespace std; 
 
-int getSum(int n){
-    
-    int sum = 0;
-    
-    for(int i = 1; i < sqrt(n); i++) { 
+int getSum(int n)
+{
+int sum = 0;
+for(int i = 1; i < sqrt(n); i++) { 
 if (n % i == 0) { 
  if(i == 1) 
 sum = sum + i; 
