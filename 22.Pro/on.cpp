@@ -1,6 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std; 
+
 int getSum(int n)
 {
 int sum = 0;
@@ -16,6 +17,7 @@ sum = sum + i + n/i;
 } 
 return sum; 
 } 
+
 int main() { 
 int n = 12; 
 int sum = getSum(n); 
