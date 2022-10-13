@@ -1,7 +1,6 @@
 #include <iostream>
 #include <math.h>
 using namespace std; 
-
 int getSum(int n)
 {
 int sum = 0;
