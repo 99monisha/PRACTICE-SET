@@ -1,5 +1,5 @@
 /*
-
+check whether a number is an Abundant Number or not
 12 is an Abundant Number
 The Abundance is: 4
 */
