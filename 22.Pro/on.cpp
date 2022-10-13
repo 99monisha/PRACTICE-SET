@@ -25,4 +25,5 @@ cout << n << " is an Abundant Number\n";
  cout << "The Abundance is: " << (sum-n); 
 } else
  cout << n << " is not an Abundant Number\n"; 
+return 0;
 }
