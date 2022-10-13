@@ -1,6 +1,7 @@
 /*
 
-
+12 is an Abundant Number
+The Abundance is: 4
 */
 
 #include <iostream>
