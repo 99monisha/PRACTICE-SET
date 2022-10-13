@@ -22,6 +22,7 @@ sum = sum + i + n/i;
 } 
 } 
 return sum; 
+
 } 
 
 int main() { 
