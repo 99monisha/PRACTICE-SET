@@ -23,7 +23,7 @@
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">22. Remove brackets from an algebraic expression<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">23. Friendly Pair method-1<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">24. Friendly Pair method-2<a/></p>
-<p><a href=""><a/></p>
+<p><a href="">25. Find roots of a quadratic equation<a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
