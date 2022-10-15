@@ -23,9 +23,7 @@ void swap(int arr[], int fi, int si, int d);
         leftRotate(arr + n - d, 2 * d - n, d);
     }
 }
- 
-
-void swap(int arr[], int fi, int si, int d)
+ void swap(int arr[], int fi, int si, int d)
 {
    int i, temp;
    for(i = 0; i<d; i++)  
