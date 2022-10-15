@@ -8,6 +8,7 @@ Block Swapping Algorithm
 
 #include<iostream>
 using namespace std;
+
 void swap(int arr[], int fi, int si, int d);
 void leftRotate(int arr[], int d, int n)
 
