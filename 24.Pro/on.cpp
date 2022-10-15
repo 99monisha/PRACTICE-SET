@@ -32,7 +32,8 @@ void swap(int arr[], int fi, int si, int d);
      arr[fi + i] = arr[si + i];
      arr[si + i] = temp;
    }    
-}    
+} 
+   
 int main()
 {
    int arr[] = {10, 20, 30, 40, 50, 60, 70};
