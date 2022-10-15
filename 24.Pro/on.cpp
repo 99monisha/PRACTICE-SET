@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 void swap(int arr[], int fi, int si, int d);
- void leftRotate(int arr[], int d, int n)
+void leftRotate(int arr[], int d, int n)
 {
     if(d == 0 || d == n)
      return;
@@ -33,7 +33,7 @@ void swap(int arr[], int fi, int si, int d);
      arr[si + i] = temp;
    }    
 } 
-   
+
 int main()
 {
    int arr[] = {10, 20, 30, 40, 50, 60, 70};
