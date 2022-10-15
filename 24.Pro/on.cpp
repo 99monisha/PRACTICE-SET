@@ -13,10 +13,9 @@ void swap(int arr[], int fi, int si, int d);
         swap(arr, 0, n - d, d);
         return;
     }
-         
-    if(d < n - d)
+         if(d < n - d)
     {
-    a    swap(arr, 0, n - d, d);
+       swap(arr, 0, n - d, d);
         leftRotate(arr, d, n - d);    
     }
     else{
