@@ -1,3 +1,10 @@
+/*
+
+
+
+ */
+
+
 #include<iostream>
 using namespace std;
 void swap(int arr[], int fi, int si, int d);
