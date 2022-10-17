@@ -4,9 +4,6 @@ Enter number: 71
 71 is not a harshad number
 */
 
-
-
-
 #include <iostream>
 using namespace std;
 int checkHarshad(int num){
