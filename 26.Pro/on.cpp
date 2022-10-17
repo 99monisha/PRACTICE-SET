@@ -1,5 +1,5 @@
 /*
-
+check whether a number is a Harshad Number or not
 Enter number: 71
 71 is not a harshad number
 */
