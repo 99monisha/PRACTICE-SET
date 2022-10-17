@@ -1,6 +1,7 @@
 /*
 
-
+Enter number: 71
+71 is not a harshad number
 */
 
 
