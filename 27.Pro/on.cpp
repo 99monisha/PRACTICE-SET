@@ -3,7 +3,6 @@ using namespace std;
  
 void convertBinary(int num)
 {
-    
     int binaryArray[32];
     int i = 0;
     while (num > 0) {
