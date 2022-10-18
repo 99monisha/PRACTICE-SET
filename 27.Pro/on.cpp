@@ -14,8 +14,7 @@ void convertBinary(int num)
     for (int j = i - 1; j >= 0; j--)
         cout << binaryArray[j];
 }
- 
-int main()
+ int main()
 {
     int n = 21;
     convertBinary(n);
