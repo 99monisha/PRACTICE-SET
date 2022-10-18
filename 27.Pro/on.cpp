@@ -10,7 +10,6 @@ void convertBinary(int num)
         num = num / 2;
         i++;
     }
- 
     for (int j = i - 1; j >= 0; j--)
         cout << binaryArray[j];
 }
