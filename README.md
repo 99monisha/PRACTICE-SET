@@ -24,7 +24,7 @@
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">23. Friendly Pair method-1<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/20.Pro/on.cpp">24. Friendly Pair method-2<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/22.Pro/on.cpp">25. Find roots of a quadratic equation<a/></p>
-<p><a href=""><a/></p>
+<p><a href="">26. Check whether a number is an Automorphic number or not<a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
