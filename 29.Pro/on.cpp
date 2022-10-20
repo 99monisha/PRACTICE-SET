@@ -1,3 +1,10 @@
+/*
+Replace all 0’s with 1 in a given integer
+
+
+*/
+
+
 #include<iostream>
  using namespace std;
     int main()
