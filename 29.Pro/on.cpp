@@ -18,21 +18,12 @@
             num = num/10;
             num2=num2*10+rem;
         }
-
-       num = 0 ;
-
-       while(num2>0){
-
-        int r = num2%10;
-
-        num= num*10 + r;
-
-        num2 /= 10;
-
-      }
-
-        cout<<"Converted number is: "<<num;
-
-        return 0;
-
-    }
+            num = 0 ;
+            while(num2>0){
+            int r = num2%10;
+            num= num*10 + r;
+            num2 /= 10;
+        }
+       cout<<"Converted number is: "<<num;
+       return 0;
+}
