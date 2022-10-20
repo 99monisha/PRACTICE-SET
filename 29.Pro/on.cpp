@@ -1,7 +1,8 @@
 /*
 Replace all 0’s with 1 in a given integer
 
-
+Enter number: 12090
+Converted number is: 12191
 */
 
 
