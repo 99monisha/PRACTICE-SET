@@ -3,9 +3,7 @@
     int main()
 
     {
-
         int num,num2=0;
-
         cout<<"Enter number: ";
         cin>>num;
         if(num == 0)
