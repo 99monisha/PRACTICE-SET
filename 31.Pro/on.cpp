@@ -8,7 +8,7 @@ int order(int x)
     {
         len++;
         x = x/10;
-    }
+         }
     return len;
 }
 void armstrong(int low, int high){
