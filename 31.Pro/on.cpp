@@ -1,6 +1,6 @@
 /*
 Armstrong Numbers in a given Interval
-
+153 370 371
 */
 
 
