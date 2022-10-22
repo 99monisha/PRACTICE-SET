@@ -26,7 +26,7 @@
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/22.Pro/on.cpp">25. Find roots of a quadratic equation<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/28.Pro/on.cpp">26. Check whether a number is an Automorphic number or not<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/29.Pro/on.cpp">27. Replace all 0’s with 1 in a given integer<a/></p>
-<p><a href=""><a/></p>
+<p><a href="">28. Armstrong Numbers in a given Interval<a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
