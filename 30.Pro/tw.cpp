@@ -23,12 +23,11 @@ void lastDigit(int n, int result[], int countFive)
   result[0] = (result[0] * (number % 10)) % 10;
   lastDigit(n - 1, result, countFive);
 
-
 }
 
 int lastNon0Digit(int n)
 {
-   int result[] = { 1 }; // single element array.
+   int result[] = { 1 }; 
    lastDigit(n, result, 0);
    return result[0];
 }
