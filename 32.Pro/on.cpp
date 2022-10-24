@@ -19,7 +19,6 @@ int main()
             }
         }
     }
-
     string result = isprime ? "Prime" : "not Prime";
     cout<<"The number " << n << " is : " << result;
     
