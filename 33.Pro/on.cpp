@@ -1,5 +1,5 @@
 /*
-
+Permutations in which n people can occupy r seats in a classroom
 
 Enter number of people: 5
 Enter number of seats: 9
