@@ -1,7 +1,9 @@
 /*
 
 
-
+Enter number of people: 5
+Enter number of seats: 9
+Total possible arrangements: 120
 
 */
 
