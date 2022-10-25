@@ -6,10 +6,6 @@ Total possible arrangements: 120
 
 */
 
-
-
-
-
 #include<iostream>
 using namespace std;
 int factorial(int num)
