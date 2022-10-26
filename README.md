@@ -29,7 +29,7 @@
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/31.Pro/on.cpp">28. Armstrong Numbers in a given Interval<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/32.Pro/on.cpp">29. Check Whether the Number is a Prime or Not<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/32.Pro/on.cpp">30. Permutations in which n people can occupy r seats in a classroom<a/></p>
-<p><a href=""><a/></p>
+<p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/34.Pro/on.cpp">31. Find roots of a quadratic equation<a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
