@@ -7,8 +7,7 @@ Roots are real and same
 
 #include <bits/stdc++.h>
 using namespace std;
- 
-void findRoots(int a, int b, int c)
+ void findRoots(int a, int b, int c)
 {
     if (a == 0) {
         cout << "Invalid"; return; } int d = b * b - 4 * a * c; double sqrt_val = sqrt(abs(d)); if (d > 0) {
