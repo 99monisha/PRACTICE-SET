@@ -1,5 +1,5 @@
 /*
-
+Find roots of a quadratic equation
 Roots are real and same 
 -2.000000
 */
