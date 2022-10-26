@@ -1,5 +1,5 @@
 /*
-
+Occurrence of a digit in a given number
 3
 */
 
