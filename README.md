@@ -33,7 +33,7 @@
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/35.Pro/on.cpp">32. Occurrence of a digit in a given number<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/36.Pro/on.cpp">33. Occurrence of a digit in a given number Method-1<a/></p>
 <p><a href="https://github.com/99monisha/PRACTICE-SET/blob/master/37.Pro/on.cpp">34. Occurrence of a digit in a given number Method-2<a/></p>
-<p><a href=""><a/></p>
+<p><a href="">35. To find juggling algorithm for array rotation<a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
 <p><a href=""><a/></p>
