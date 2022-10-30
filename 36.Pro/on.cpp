@@ -1,6 +1,10 @@
 /*
 
-
+The size of the Array: 9
+The Array elements1 2 3 4 5 6 7 8 9 
+The value of k: 3
+Original array: 123456789 
+Array after rotation: 456789123
 
 */
 
