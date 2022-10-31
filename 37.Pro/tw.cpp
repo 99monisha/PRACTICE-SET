@@ -1,7 +1,7 @@
 /*
 
 
-
+No. of digits = 5
 */
 
 
