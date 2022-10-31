@@ -1,6 +1,6 @@
 /*
 
-
+No. of digits = 5
 */
 
 #include<bits/stdc++.h>
