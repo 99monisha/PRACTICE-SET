@@ -1,4 +1,5 @@
 /*
+To find number of digits in an integer
 
 No. of digits = 5
 */
